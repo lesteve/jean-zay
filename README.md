@@ -1,1 +1,1 @@
-This repo has been migrated to https://github.com/jean-zay-users/doc
+This repo has been migrated to https://github.com/jean-zay-users/jean-zay-doc
